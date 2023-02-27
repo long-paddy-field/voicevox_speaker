@@ -1,0 +1,7 @@
+default_path: "voice_lib/voicevox_speaker/voices/"
+voice:
+  - name: "red"
+    file: "field_color_red.wav"
+  - name: "field_color_blue"
+    
+    
